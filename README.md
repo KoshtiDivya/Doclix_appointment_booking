@@ -39,10 +39,10 @@ It provides separate panels for **Users, Doctors, and Admins**, with features li
 
 ## 📂 Project Structure
 
-root/
-├── admin/ # Admin panel (React)
-├── backend/ # Backend API (Node/Express)
-└── frontend/ # User frontend (React)
+root/ <br>
+├── admin/ # Admin panel (React) <br>
+├── backend/ # Backend API (Node/Express)<br>
+└── frontend/ # User frontend (React)<br>
 
 
 ## Setup Instructions
